@@ -10,12 +10,16 @@
   color: #FFFFFF;
   background: #388BC7;
   height: 75px;
-  padding-top: 20px;
+  padding-top: 24px;
   padding-left: 20px;
-  font-size: 22px;
+  font-size: 24px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  font-weight: lighter;
+  border-bottom: 2px solid #237BB8;
 }
 
-.container{
+.container {
    width: 533px;
    margin-left: 160px;
    margin-top: 30px;
@@ -25,24 +29,33 @@
   background: #C7DEEF;
   height: 75px;
   padding-top: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 
  }
 
- .container{
+ .container {
    border: 2px solid #C1C1C1;
    border-radius: 4px;
-   box-shadow: 5px;
+   box-shadow: 2px 2px 10px #C1C1C1;
  }
 
-.sbutton{
-  vertical-align: middle;
+.sbutton {
+  text-align: center;
   color: #FFFFFF;
   background: #388BC7;
   width: 100px;
   height: 35px;
   margin-bottom: 20px;
   margin-left: 20px;
-  padding-top: 8px;
-  padding-left: 8px;
+  padding-top: 10px;
   font-size: 13px;
+}
+
+.input {
+  width: 483px;
+  height: 35px;
+  margin-top: 25px;
+  margin-left: 25px;
+  border: 1px solid #C0C7CA
 }
