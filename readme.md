@@ -1,22 +1,14 @@
-###What you did###
+###Designed a Form that is dynamically generated with information from a live API###
 
 Skills practiced
 
 1. Javascript
-  * xxx
-  * xxx
+  * Accessed a live API with JQuery and AJAX.
+  * Navigated problems that occurred because of asynchronous code through use of a success callback.
+  * Dynamically generated HTML with proper use of .append and .after and template literals.
 
-2. CSS
-  * xxx
+2. SCSS
+  * Continued to use advanced styling features with appropriate selectors to match information obtained. from the API.
+  * Used precise styling to generate a smooth and modern looking interface.
 
-3. HTML
-  * xxx
-
-4. GitHub
-  * xxx
-
-5. Other
-  * xxx
-
-
-TO VIEW GOTO: https://farstrider777.github.io/color_clock/
+TO VIEW GOTO: https://farstrider777.github.io/form_builder/
