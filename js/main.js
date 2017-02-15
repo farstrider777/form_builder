@@ -1,6 +1,6 @@
 function getProper (callback) {
   muffin2 = $.ajax({
-    url: `http://json-data.herokuapp.com/forms`,
+    url: `https://json-data.herokuapp.com/forms`,
     dataType: "json",
     success: callback
   });
